@@ -1,0 +1,15 @@
+\\Aeon\Home\h-lu\マイ ドキュメント\Visual Studio 2010\Projects\bookManagement\books_sample\bin\Release\books_sample.exe
+\\Aeon\Home\h-lu\マイ ドキュメント\Visual Studio 2010\Projects\bookManagement\books_sample\bin\Release\books_sample.pdb
+\\Aeon\Home\h-lu\マイ ドキュメント\Visual Studio 2010\Projects\bookManagement\books_sample\obj\Release\ResolveAssemblyReference.cache
+\\Aeon\Home\h-lu\マイ ドキュメント\Visual Studio 2010\Projects\bookManagement\books_sample\obj\Release\books_sample.UserRegist.resources
+\\Aeon\Home\h-lu\マイ ドキュメント\Visual Studio 2010\Projects\bookManagement\books_sample\obj\Release\books_sample.BookRegist.resources
+\\Aeon\Home\h-lu\マイ ドキュメント\Visual Studio 2010\Projects\bookManagement\books_sample\obj\Release\books_sample.Rental.resources
+\\Aeon\Home\h-lu\マイ ドキュメント\Visual Studio 2010\Projects\bookManagement\books_sample\obj\Release\books_sample.Return.resources
+\\Aeon\Home\h-lu\マイ ドキュメント\Visual Studio 2010\Projects\bookManagement\books_sample\obj\Release\books_sample.MainForm.resources
+\\Aeon\Home\h-lu\マイ ドキュメント\Visual Studio 2010\Projects\bookManagement\books_sample\obj\Release\books_sample.Properties.Resources.resources
+\\Aeon\Home\h-lu\マイ ドキュメント\Visual Studio 2010\Projects\bookManagement\books_sample\obj\Release\GenerateResource-ResGen.read.1.tlog
+\\Aeon\Home\h-lu\マイ ドキュメント\Visual Studio 2010\Projects\bookManagement\books_sample\obj\Release\GenerateResource-ResGen.write.1.tlog
+\\Aeon\Home\h-lu\マイ ドキュメント\Visual Studio 2010\Projects\bookManagement\books_sample\obj\Release\books_sample.exe
+\\Aeon\Home\h-lu\マイ ドキュメント\Visual Studio 2010\Projects\bookManagement\books_sample\obj\Release\books_sample.pdb
+F:\VS2010\CSharp\bookManagement1.0\books_sample\obj\Release\books_sample.exe
+F:\VS2010\CSharp\bookManagement1.0\books_sample\obj\Release\books_sample.pdb
